@@ -1,3 +1,3 @@
 //  Main project files
 
-// photos completed
+// PHOTOS COMPLETED
