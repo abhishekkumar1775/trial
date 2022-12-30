@@ -1,5 +1,8 @@
 //  Main project files
 
-//  COMPLETED
+
+// PHOTOS + VIDEOS
+
 
 //photos versoin 2 wip
+
