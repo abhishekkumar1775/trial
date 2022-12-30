@@ -1,3 +1,5 @@
 //  Main project files
 
-// PHOTOS COMPLETED
+//  COMPLETED
+
+//photos versoin 2 wip
